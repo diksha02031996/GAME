@@ -1,5 +1,5 @@
 # GAME
-It is a basic game.
+It is a basic game implement by using C programming language.
 
 We all played this game in our childhood on paper that is 3*3 block was there,
 we have to make same line of symbol horizontally or vertically at any rows or columns.if same line of symbol
